@@ -1,6 +1,6 @@
-# AFWall installer for magisk
+# AFWall+ installer for magisk
 
-This module NOT containing AFWall+ APK, you can find it by yoursellf and put inside /system/priv-app/afwall/ directory.
+This module NOT containing [AFWall+](https://github.com/ukanth/afwall) APK, you can find it by yoursellf and put inside /system/priv-app/afwall/ directory.
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
